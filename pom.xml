@@ -9,6 +9,7 @@
     <version>0.1.0</version>
     <modules>
         <module>tea-framework</module>
+        <module>demo</module>
     </modules>
     <packaging>pom</packaging>
 
